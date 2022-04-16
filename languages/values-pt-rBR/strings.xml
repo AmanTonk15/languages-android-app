@@ -221,7 +221,7 @@
         <item quantity="other">Ver Todas as &lt;xliff:g xmlns:xliff=\"urn:oasis:names:tc:xliff:document:1.2\" example=\"2\" id=\"count\"&gt; %1$d&lt;/xliff:g&gt; Respostas</item>
     </plurals>
     <string name="app_detail_customer_reviews">Comentários</string>
-    <string name="app_detail_comment_type_web">Internet</string>
+    <string name="app_detail_comment_type_web">Web</string>
     <string name="app_submit_submit">Enviando…</string>
     <string name="app_submit_anonymous_comment">Adicionar um comentário</string>
     <string name="app_submit_title_toast">Por favor, insira um título!</string>
@@ -268,12 +268,12 @@
     <string name="permission_denied">Acesso negado!</string>
     <string name="login_title">Entrar</string>
     <string name="sign_out">Encerrar sessão</string>
-    <string name="delete_comment">Excluir comentário</string>
+    <string name="delete_comment">Delete Comment</string>
     <string name="delete_comment_msg">Tem certeza que deseja excluir este comentário\?</string>
-    <string name="upload_cancel">O upload foi cancelado</string>
+    <string name="upload_cancel">Upload has been canceled</string>
     <string name="login_select_way_to_login">Por favor, escolha um método de login</string>
     <string name="user_info_edit_title">Perfil</string>
-    <string name="user_info_edit_portrait_tv">Foto de perfil</string>
+    <string name="user_info_edit_portrait_tv">Avatar</string>
     <string name="user_info_edit_username_tv">Usuário</string>
     <string name="user_info_edit_nickname_tv">Apelido</string>
     <string name="user_info_edit_email_tv">Email</string>
@@ -300,7 +300,7 @@
     <string name="update_pwd_current_pwd_et">Senha antiga</string>
     <string name="update_pwd_new_pwd_et">Nova senha</string>
     <string name="update_pwd_Confirm_pwd_et">Confirme a nova senha</string>
-    <string name="upload_avatar">Fazendo upload…</string>
+    <string name="upload_avatar">Uploading…</string>
     <string name="update_pwd_current_null_tv">A senha antiga não pode ficar em branco.</string>
     <string name="update_pwd_Confirm_null_tv">A confirmação da senha não pode ficar em branco.</string>
     <string name="update_pwd_new_pwd_null_tv">A nova senha não pode ficar em branco.</string>
@@ -396,7 +396,7 @@
     <string name="check_update_beta">Versão beta de pré-lançamento</string>
     <string name="app_detail_comment_order_array_old">Antigo</string>
     <string name="app_detail_comment_join_group_bt">Grupo</string>
-    <string name="ad_tip">anúncio</string>
+    <string name="ad_tip">ad</string>
     <string name="play_button">Botão reproduzir</string>
     <string name="null_time">0:00</string>
     <string name="open_video_in_youtube">Reproduzir vídeo no YouTube</string>
@@ -543,17 +543,17 @@
     <string name="commentaries">História</string>
     <string name="upload_apk_version">V %1$s</string>
     <string name="upload_apk_downloads">Downloads: %1$s</string>
-    <string name="upload_comment_uploading">%1$s Fazendo upload…</string>
-    <string name="upload_comment_upload_success">%1$s Upload bem sucedido</string>
-    <string name="upload_comment_upload_failed">%1$s Falha no upload</string>
+    <string name="upload_comment_uploading">%1$s Uploading…</string>
+    <string name="upload_comment_upload_success">%1$s Upload Succeeded</string>
+    <string name="upload_comment_upload_failed">%1$s Upload Failed</string>
     <string name="upload_comment_view">Toque para ver</string>
-    <string name="upload_comment_reload">Toque para fazer o upload novamente</string>
+    <string name="upload_comment_reload">Tap to upload again</string>
     <string name="upload_notification_pause">Pausar</string>
-    <string name="upload_notification_start">Iniciar</string>
+    <string name="upload_notification_start">Start</string>
     <string name="upload_notification_cancel">Cancelar</string>
     <string name="upload_notification_is_uploading">Enviando pacote para o APKPure…</string>
-    <string name="upload_notification_is_pause">O upload está pausado.</string>
-    <string name="upload_add_list_toast">Sucesso!</string>
+    <string name="upload_notification_is_pause">The upload is paused.</string>
+    <string name="upload_add_list_toast">Success!</string>
     <string name="upload_add_file_list_toast">Obrigado por enviar seu aplicativo. Por favor, seja paciente.</string>
     <string name="your_reply_comment">Sua resposta</string>
     <string name="market_ad_title">Mercado</string>
@@ -705,7 +705,7 @@
     <string name="app_rating">Classificação:</string>
     <string name="number">/</string>
     <string name="headline_footer_refresh">Puxe para baixo ou toque nesta linha para atualizar.</string>
-    <string name="download_install_obb">Instalar OBB</string>
+    <string name="download_install_obb">Install OBB</string>
     <string name="download_install_apk">Instalar APK</string>
     <string name="users_recommended_title">Parabéns!</string>
     <string name="users_recommended_des">Sua publicação foi selecionada como recomendação de usuário,,%1$s</string>
@@ -736,7 +736,7 @@
     <string name="delete_draft">Excluir o rascunho</string>
     <string name="empty_draft_info">Sem conteúdo…</string>
     <string name="is_save_comment_draft">Salvar sua publicação como rascunho\?</string>
-    <string name="upload_video">Upload de vídeo</string>
+    <string name="upload_video">Upload video</string>
     <string name="saved_draft">Salvo como rascunho</string>
     <string name="picture_min_video_num">Seleção de vídeo não pode%1$snúmeros</string>
     <string name="gif_tag">gif</string>
@@ -746,7 +746,7 @@
     <string name="picture_message_max_num">Você pode escolher o máximo de%1$s números de imagens</string>
     <string name="upload_apk_xapk">Upload de APK/XAPK</string>
     <string name="apk_xapk">APK/XAPK</string>
-    <string name="ucrop_mutate_exception_hint">Portanto, substitua o recurso de cor (ucrop_color_toolbar_widget) no seu aplicativo para fazê-lo funcionar em dispositivos pré-L</string>
+    <string name="ucrop_mutate_exception_hint">Therefore, override color resource (ucrop_color_toolbar_widget) in your app to make it work on pre-L devices</string>
     <string name="ucrop_error_input_data_is_absent">Uri de entrada e saída devem ser especificadas</string>
     <string name="ucrop_menu_crop">Recortar</string>
     <string name="ucrop_label_edit_photo">Editar foto</string>
@@ -761,7 +761,7 @@
     <string name="picture_stop_audio">Parar</string>
     <string name="picture_play_audio">Reproduzir</string>
     <string name="picture_tape">Fita</string>
-    <string name="picture_all_audio">Todo o áudio</string>
+    <string name="picture_all_audio">All audio</string>
     <string name="picture_save_error">Falha ao salvar imagem</string>
     <string name="picture_prompt_content">Você quer salvar fotos no seu smartphone\?</string>
     <string name="picture_prompt">Prompt</string>

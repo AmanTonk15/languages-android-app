@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="action_settings">Settings</string>
-    <string name="action_search">Search</string>
+    <string name="action_settings">ការកំណត់</string>
+    <string name="action_search">ស្វែងរក</string>
     <string name="action_management">ការគ្រប់គ្រង</string>
-    <string name="press_back_key_quit">ដើម្បីចេញ សូមប៉ះប៊ូតុងថយtkonក្រោយម្តងទៀត។</string>
-    <string name="featured">លក្ខណះពិសេស</string>
-    <string name="games">Games</string>
+    <string name="press_back_key_quit">ដើម្បីចាកចេញ សូមប៉ះប៊ូតុងថយក្រោយម្តងទៀត។</string>
+    <string name="featured">លក្ខណៈពិសេស</string>
+    <string name="games">ហ្គេម</string>
     <string name="apps">កម្មវិធី</string>
     <string name="categories">ចំណាត់ក្រុម</string>
     <string name="updates">អាប់ដេត</string>
@@ -23,12 +23,12 @@
     <string name="auto_service_install">តម្លើង</string>
     <string name="auto_service_ensure">យល់ព្រម</string>
     <string name="auto_service_next">បន្ទាប់</string>
-    <string name="auto_service_title">APKPure តម្លើងស្វ័យប្រវត្តិ</string>
-    <string name="auto_service_install_accessibility_title">តម្លើងស្វ័យប្រវត្តិ</string>
+    <string name="auto_service_title">APKPure ស្វ័យដំឡើង</string>
+    <string name="auto_service_install_accessibility_title">ស្វ័យដំឡើង</string>
     <string name="touch_to_open">សូមប៉ះ ដើម្បីដំណើរការ។</string>
     <string name="auto_service_install_accessibility_summary">គាំទ្រ Android 4.1+ មិនចាំបាច់ root ឡើយ។</string>
-    <string name="auto_service_dialog_title">បើកការតម្លើងស្វ័យប្រវត្តិ</string>
-    <string name="recommend">Discovertkon</string>
+    <string name="auto_service_dialog_title">អនុញ្ញាត ស្វ័យដំឡើង</string>
+    <string name="recommend">ការស្វែងរកឃើញ</string>
     <string name="load_failed_error">អូ៎! មានកំហុស​បាន​កើត​ឡើង។</string>
     <string name="load_failed_empty">គឺគ្មានអ្វីនៅទីនេះទេ។</string>
     <string name="load_failed_all_up_to_date">កម្មវិធីទាំងអស់ទាន់សម័យហើយ។</string>
@@ -36,8 +36,8 @@
     <string name="refresh">ធ្វើឲ្យស្រស់ថ្មី</string>
     <string name="management">ការគ្រប់គ្រង</string>
     <string name="app_updates">កម្មវិធីអាប់ដេត</string>
-    <string name="app_management">បានតម្លើង</string>
-    <string name="app_uninstall">លុបការតម្លើងកម្មវិធី</string>
+    <string name="app_management">បានដំឡើង</string>
+    <string name="app_uninstall">ការឈប់ដំឡើងកម្មវិធី</string>
     <string name="apk_management">ការគ្រប់គ្រង APK</string>
     <string name="apk_xapk_management">ការគ្រប់គ្រង APK / XAPK</string>
     <string name="download_management">ការគ្រប់គ្រងការទាញយក</string>
@@ -49,7 +49,7 @@
     <string name="check_update">ពិនិត្យរកបច្ចុប្បន្នភាព</string>
     <string name="quit">បិទចោល</string>
     <string name="want_to_quit">តើអ្នកពិតជាចង់ចាកចេញមែនទេ\?</string>
-    <string name="install">តម្លើង</string>
+    <string name="install">ដំឡើង</string>
     <string name="open">បើក</string>
     <string name="delete">លុប</string>
     <string name="delete_all">លុបទាំងអស់</string>
@@ -61,25 +61,24 @@
     <string name="want_to_delete_all_files">តើអ្នកពិតជាចង់លុបឯកសារទាំងអស់មែនទេ\?</string>
     <string name="file_has_been_deleted">ឯកសារត្រូវបានលុប។</string>
     <string name="failed_to_delete_file">បរាជ័យក្នុងការលុបឯកសារនេះ។</string>
-    <string name="install__label_">តម្លើង - <xliff:g example="APKPure" id="app_label">%1$s</xliff:g>
-    </string>
+    <string name="install__label_">ដំឡើង - &lt;xliff:g xmlns:xliff=\"urn:oasis:names:tc:xliff:document:1.2\" example=\"APKPure\" id=\"app_label\"&gt;%1$s&lt;/xliff:g&gt;</string>
     <string name="user_canceled">អ្នកប្រើដែលបានបោះបង់។</string>
     <string name="file_format_error">ទម្រង់ឯកសារមានកំហុស។</string>
     <string name="parsing_xapk">កំពុងញែក XAPK …</string>
-    <string name="installing_obb">កំពុងតម្លើងឯកសារ OBB…</string>
+    <string name="installing_obb">កំពុងដំឡើងឯកសារ OBB…</string>
     <string name="io_error">កំហុស IO។ គ្មានកន្លែងទំនេរគ្រប់គ្រាន់សម្រាប់ការដំឡើងទេ។</string>
-    <string name="installing_apk">កំពុងតម្លើង APK …</string>
-    <string name="uninstall">ឈប់តម្លើង</string>
-    <string name="uninstalled">ឈប់តម្លើង</string>
+    <string name="installing_apk">កំពុងដំឡើង APK …</string>
+    <string name="uninstall">ឈប់ដំឡើង</string>
+    <string name="uninstalled">ឈប់ដំឡើង</string>
     <string name="last_update__date_">ការអាប់ដេតចុងក្រោយ៖ <xliff:g id="date">%1$s</xliff:g>
     </string>
     <string name="all">ទាំងអស់</string>
-    <string name="screenshots">អេក្រង់ថត</string>
+    <string name="screenshots">ថតអេក្រង់</string>
     <string name="description">សេចក្ដីសង្ខេប</string>
     <string name="whatsnew">តើមានអ្វីថ្មី</string>
     <string name="information">ពត៌មានលម្អិត</string>
     <string name="version_">ជំនាន់៖</string>
-    <string name="updated_">អាប់ដេត៖</string>
+    <string name="updated_">បានអាប់ដេត៖</string>
     <string name="size_">ទំហំ៖</string>
     <string name="permissions_">ការផ្ដល់សិទ្ធិ៖</string>
     <string name="type_">ប្រភេទ៖</string>
@@ -133,7 +132,7 @@
     <string name="waiting_to_download">កំពុងរង់ចាំ ដើម្បីទាញយក</string>
     <string name="deleted">បានលុប</string>
     <string name="expired">បានផុតកំណត់</string>
-    <string name="installed">បានតម្លើង</string>
+    <string name="installed">បានដំឡើង</string>
     <string name="detail">លម្អិត</string>
     <string name="remove">ដកចេញ</string>
     <string name="remove_all">ដកចេញទាំងអស់</string>
@@ -211,7 +210,7 @@
     <string name="changing_language">កំពុងប្ដូរភាសា… សូមរង់ចាំ។</string>
     <string name="download_via_wifi_only">ទាញយកតាមរយះ Wi-Fi តែប៉ុណ្ណោះ</string>
     <string name="enable_ultra_download">បើកការទាញយកអ៊ុយត្រា</string>
-    <string name="installation">ការតម្លើង</string>
+    <string name="installation">ការដំឡើង</string>
     <string name="_name__installation_completed">
         <xliff:g example="APKPure" id="name">%1$s</xliff:g> ដំឡើងបានសម្រេច</string>
     <string name="auto_service_description">បើក \"កម្មវិធីដំឡើងស្វ័យប្រវត្តិ APKPure\" ដើម្បីទុកឲ្យ \"ការតម្លើងស្វ័យប្រវត្តិ\" APKPure ដំណើរការដោយរលូន។
@@ -293,7 +292,7 @@
     <string name="market_response_error_invalid_result">លទ្ធផលមិនត្រឹមត្រូវ។</string>
     <string name="market_response_error_invalid_response_code">កូដឆ្លើយតបមិនត្រឹមត្រូវ។</string>
     <string name="invalid_app_detail">ពត៌មានលម្អិតកម្មវិធីមិនត្រឹមត្រូវ។</string>
-    <string name="delete_packages_after_installation">លុបកញ្ចប់ក្រោយពេលតម្លើង</string>
+    <string name="delete_packages_after_installation">លុបកញ្ចប់ក្រោយពេលដំឡើងរួច</string>
     <plurals name="app_detail_see_all_replies">
         <item quantity="other">មើលការឆ្លើយតបទាំង <xliff:g example="2" id="count">%1$d</xliff:g> នេះ</item>
     </plurals>
@@ -315,7 +314,7 @@
     <string name="check_update_beta">ត្រៀមបញ្ចេញសាកល្បង</string>
     <string name="trending_searches">ការនិយមស្វែងរក</string>
     <string name="failed_to_request_app_detail">បានបរាជ័យក្នុងការស្នើសុំ ពត៌មានលម្អិតនៃកម្មវិធី។</string>
-    <string name="show_notification_after_installation">បង្ហាញការជូនដំណឹង បន្ទាប់ពីការតម្លើង</string>
+    <string name="show_notification_after_installation">បង្ហាញការជូនដំណឹង បន្ទាប់ពីការដំឡើង</string>
     <string name="auto_service_dialog_message">ការដំឡើងស្វ័យប្រវត្តិ ទាមទារការអនុញ្ញាតពីអ្នក។ ១០០% គឺសុវត្ថិភាព ។</string>
     <string name="app_detail_comment_order_array_old">ចាស់បំផុត</string>
     <string name="app_detail_comment_join_group_bt">ក្រុម</string>
@@ -542,7 +541,7 @@
     <string name="toast_app_tag_exist">ស្លាកនេះមានរួចហើយ!</string>
     <string name="there_is_no_label">គ្មានស្លាក។</string>
     <string name="add">បន្ថែម</string>
-    <string name="load_failed_error_not_found">កម្មវិធីនេះមិនទាន់បានបញ្ចូលក្នុងកម្មវិធី APKPure ឡើយ។</string>
+    <string name="load_failed_error_not_found">កម្មវិធីនេះមិនទាន់បានបញ្ចូលក្នុង APKPure ឡើយ។</string>
     <string name="user_info_edit_intro_tv">ជីវប្រវត្តិ</string>
     <string name="update_intro_title">កែជីវប្ររត្តិ</string>
     <string name="update_intro_et">ពត៌មានលម្អិតខ្លះៗ អំពីខ្លួនអ្នកផ្ទាល់</string>

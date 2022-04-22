@@ -376,7 +376,7 @@
     <string name="gif_tip">gif-анимация</string>
     <string name="submit_comment_title_hint">Наглавие</string>
     <string name="comment_vote_string">Поставить лайк</string>
-    <string name="comment_reply_three">Ответить</string>
+    <string name="comment_reply_three">Отзывы</string>
     <string name="comment_item_fold">комментарий свернут</string>
     <string name="reply_notification">Уведомления об ответах</string>
     <string name="reply_notification_msg">Получать уведомления для новых ответных сообщений</string>
@@ -389,12 +389,10 @@
     <string name="push_title_info_reply">%1$s ответили на ваш комментарий!</string>
     <string name="push_title_info_upvoted">%1$s понравились ваш комментарий!</string>
     <plurals name="comment_reply_item_fold">
-        <item quantity="one">
-            <xliff:g example="1" id="count">%1$d</xliff:g> ответ был свёрнут</item>
-        <item quantity="few">
-            <xliff:g example="1" id="count">%1$d</xliff:g> ответа были свёрнуты</item>
-        <item quantity="many">
-            <xliff:g example="2" id="count">%1$d</xliff:g> ответов были свёрнуты</item>
+        <item quantity="one">&lt;xliff:g xmlns:xliff=\"urn:oasis:names:tc:xliff:document:1.2\" example=\"1\" id=\"count\"&gt;&lt;xliff:g xmlns:xliff=\"urn:oasis:names:tc:xliff:document:1.2\" example=\"1\" id=\"count\"&gt;%1$d&lt;/xliff:g&gt; ответ был свёрнут</item>
+        <item quantity="few">&lt;xliff:g xmlns:xliff=\"urn:oasis:names:tc:xliff:document:1.2\" example=\"1\" id=\"count\"&gt;%1$d&lt;/xliff:g&gt; ответа были свёрнуты</item>
+        <item quantity="many">&lt;xliff:g xmlns:xliff=\"urn:oasis:names:tc:xliff:document:1.2\" example=\"2\" id=\"count\"&gt;%1$d&lt;/xliff:g&gt; ответов были свёрнуты</item>
+        <item quantity="other">&lt;xliff:g xmlns:xliff=\"urn:oasis:names:tc:xliff:document:1.2\" example=\"2\" id=\"count\"&gt;%1$d&lt;/xliff:g&gt; ответов были свёрнуты</item>
     </plurals>
     <string name="comment_no_reply">Ой, здесь ничего нет.</string>
     <string name="comment_reply_info_name">Детали</string>

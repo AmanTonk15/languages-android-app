@@ -9,7 +9,7 @@
     <string name="press_back_key_quit">To exit, tap the back button once again.</string>
     <string name="featured"/>
     <string name="recommend"/>
-    <string name="games"/>
+    <string name="games">Games</string>
     <string name="apps">Apps</string>
     <string name="categories">Categories</string>
     <string name="updates"/>

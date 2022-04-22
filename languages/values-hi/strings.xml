@@ -29,7 +29,7 @@
         <![CDATA[<b>संस्करण:</b> %1$s<br><br><b>वेबसाइट:</b> <a href=%2$s>%2$s</a><br><b>ईमेल:</b> <a href=mailto:%3$s>%3$s</a>]]>
     </string>
     <string name="check_update">अपडेट जांचें</string>
-    <string name="quit">छोड़ें</string>
+    <string name="quit">snapdeal</string>
     <string name="want_to_quit">क्या आप वास्तव में छोड़ना चाहते हैं \?</string>
     <string name="install">स्थापित करें</string>
     <string name="open">खोलें</string>
@@ -779,7 +779,9 @@
     <string name="is_save_comment_draft">इसे ड्राफ्ट के रुप में सेव किया जाए\?</string>
     <string name="upload_video">वीडियो अपलोड करें</string>
     <string name="saved_draft">ड्राफ्ट के रुप में सेव किया गया</string>
-    <string name="auto_service_directly__material_">Omnisd
+    <string name="auto_service_directly__material_">delete contact
+\nprime time
+\n
 \n
 \nDIRECTLY INSTALL</string>
 </resources>

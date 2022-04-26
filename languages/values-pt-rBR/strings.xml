@@ -9,7 +9,8 @@
     <string name="apps">Aplicativos</string>
     <string name="categories">Categorias</string>
     <string name="updates">Atualizações</string>
-    <string name="something_happened">&gt;_&lt; Aconteceu algo.</string>
+    <string name="something_happened">&gt;_&lt; 
+\nAconteceu algo.</string>
     <string name="load_failed_error">Oops! Ocorreu um erro.</string>
     <string name="load_failed_empty">Não há nada aqui.</string>
     <string name="load_failed_all_up_to_date">Todos os apps estão atualizados.</string>
@@ -24,7 +25,7 @@
     <string name="download_management">Gerenciamento de download</string>
     <string name="settings">Configurações</string>
     <string name="about">Sobre</string>
-    <string name="about_title">Sobre %1$s</string>
+    <string name="about_title">Sobre &lt;xliff:g xmlns:xliff=\"urn:oasis:names:tc:xliff:document:1.2\" example=\"APKPure\" id=\"app_name\"&gt;%1$s&lt;/xliff:g&gt;</string>
     <string name="about_message">&lt;b&gt;Versão:&lt;/b&gt; %1$s&lt;br&gt;&lt;br&gt;&lt;b&gt;Site:&lt;/b&gt; &lt;a href=%2$s&gt;%2$s&lt;/a&gt;&lt;br&gt;&lt;b&gt;Email:&lt;/b&gt; &lt;a href=mailto:%3$s&gt;%3$s&lt;/a&gt;</string>
     <string name="check_update">Verificar se há atualizações</string>
     <string name="quit">Sair</string>
@@ -268,9 +269,9 @@
     <string name="permission_denied">Acesso negado!</string>
     <string name="login_title">Entrar</string>
     <string name="sign_out">Encerrar sessão</string>
-    <string name="delete_comment">Delete Comment</string>
+    <string name="delete_comment">Apagar comentário</string>
     <string name="delete_comment_msg">Tem certeza que deseja excluir este comentário\?</string>
-    <string name="upload_cancel">Upload has been canceled</string>
+    <string name="upload_cancel">O upload foi cancelado</string>
     <string name="login_select_way_to_login">Por favor, escolha um método de login</string>
     <string name="user_info_edit_title">Perfil</string>
     <string name="user_info_edit_portrait_tv">Avatar</string>
@@ -300,7 +301,7 @@
     <string name="update_pwd_current_pwd_et">Senha antiga</string>
     <string name="update_pwd_new_pwd_et">Nova senha</string>
     <string name="update_pwd_Confirm_pwd_et">Confirme a nova senha</string>
-    <string name="upload_avatar">Uploading…</string>
+    <string name="upload_avatar">Enviando…</string>
     <string name="update_pwd_current_null_tv">A senha antiga não pode ficar em branco.</string>
     <string name="update_pwd_Confirm_null_tv">A confirmação da senha não pode ficar em branco.</string>
     <string name="update_pwd_new_pwd_null_tv">A nova senha não pode ficar em branco.</string>
@@ -543,17 +544,17 @@
     <string name="commentaries">História</string>
     <string name="upload_apk_version">V %1$s</string>
     <string name="upload_apk_downloads">Downloads: %1$s</string>
-    <string name="upload_comment_uploading">%1$s Uploading…</string>
-    <string name="upload_comment_upload_success">%1$s Upload Succeeded</string>
-    <string name="upload_comment_upload_failed">%1$s Upload Failed</string>
+    <string name="upload_comment_uploading">%1$s Enviando…</string>
+    <string name="upload_comment_upload_success">%1$s Upload bem sucedido</string>
+    <string name="upload_comment_upload_failed">%1$s Falha ao enviar</string>
     <string name="upload_comment_view">Toque para ver</string>
-    <string name="upload_comment_reload">Tap to upload again</string>
+    <string name="upload_comment_reload">Toque para fazer upload novamente</string>
     <string name="upload_notification_pause">Pausar</string>
     <string name="upload_notification_start">Start</string>
     <string name="upload_notification_cancel">Cancelar</string>
     <string name="upload_notification_is_uploading">Enviando pacote para o APKPure…</string>
-    <string name="upload_notification_is_pause">The upload is paused.</string>
-    <string name="upload_add_list_toast">Success!</string>
+    <string name="upload_notification_is_pause">O upload está pausado.</string>
+    <string name="upload_add_list_toast">Sucesso!</string>
     <string name="upload_add_file_list_toast">Obrigado por enviar seu aplicativo. Por favor, seja paciente.</string>
     <string name="your_reply_comment">Sua resposta</string>
     <string name="market_ad_title">Mercado</string>
@@ -705,16 +706,16 @@
     <string name="app_rating">Classificação:</string>
     <string name="number">/</string>
     <string name="headline_footer_refresh">Puxe para baixo ou toque nesta linha para atualizar.</string>
-    <string name="download_install_obb">Install OBB</string>
+    <string name="download_install_obb">Instalar OBB</string>
     <string name="download_install_apk">Instalar APK</string>
     <string name="users_recommended_title">Parabéns!</string>
     <string name="users_recommended_des">Sua publicação foi selecionada como recomendação de usuário,,%1$s</string>
     <string name="recommended_posts_title">Parabéns!</string>
     <string name="recommended_posts_des">Sua publicação foi selecionada como recomendada,%1$s</string>
     <string name="comment_removed_title">Sua publicação foi removida</string>
-    <string name="comment_removed_des">It looks like something you posted doesn\'t follow our %1$s. We don\'t allow bullying or harassment of any kind, including inappropriate photos, videos on physical bullying, or any other posts intended to degrade or humiliate a specific person. 
-\n%2$s 
-\nIf you think this was a mistake, please %3$s.</string>
+    <string name="comment_removed_des">"Parece que algo que você postou não segue nossos %1$s.  Não permitimos bullying ou assédio de qualquer tipo, incluindo fotos impróprias, vídeos sobre bullying físico ou quaisquer outras postagens destinadas a degradar ou humilhar uma pessoa específica.
+\n%2$s
+\nSe você acha que isso foi um erro, por favor, %3$s."</string>
     <string name="temporarily_blocked_title">Você está temporariamente proibido de criar conteúdo no APKPure</string>
     <string name="temporarily_blocked_des">"\"seu banimento temporário durará %1$s dias, e você não poderá criar conteúdo no APKPure até que ele expire.
 \n         Se você postar algo que vá contra o nosso %2$s novamente, sua conta será banida por mais 30 dias.
@@ -746,7 +747,7 @@
     <string name="picture_message_max_num">Você pode escolher o máximo de%1$s números de imagens</string>
     <string name="upload_apk_xapk">Upload de APK/XAPK</string>
     <string name="apk_xapk">APK/XAPK</string>
-    <string name="ucrop_mutate_exception_hint">Therefore, override color resource (ucrop_color_toolbar_widget) in your app to make it work on pre-L devices</string>
+    <string name="ucrop_mutate_exception_hint">Portanto, substitua o recurso de cor (ucrop_color_toolbar_widget) em seu aplicativo para fazê-lo funcionar em dispositivos pré-L</string>
     <string name="ucrop_error_input_data_is_absent">Uri de entrada e saída devem ser especificadas</string>
     <string name="ucrop_menu_crop">Recortar</string>
     <string name="ucrop_label_edit_photo">Editar foto</string>

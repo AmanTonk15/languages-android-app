@@ -23,7 +23,7 @@
     <string name="management">Управління</string>
     <string name="app_updates">Оновлення додатків</string>
     <string name="app_management">Встановлені</string>
-    <string name="app_uninstall">Видалення додатків</string>
+    <string name="app_uninstall">Видалення застосунків</string>
     <string name="apk_management">Управління файлами APK</string>
     <string name="apk_xapk_management">Управління файлами APK / XAPK</string>
     <string name="download_management">Управління завантаженнями</string>
@@ -46,7 +46,7 @@
     <string name="properties">Характеристики</string>
     <string name="properties_message">&lt;b&gt;Шлях:&lt;/b&gt; %1$s&lt;br&gt;&lt;b&gt;Розмір:&lt;/b&gt; %2$s&lt;br&gt;&lt;b&gt;Остання зміна:&lt;/b&gt; %3$s</string>
     <string name="want_to_delete_file">Видалити цей файл?</string>
-    <string name="want_to_delete_all_files">Видалити усі файли?</string>
+    <string name="want_to_delete_all_files">Ви впевнені, що хочете видалити усі файли\?</string>
     <string name="file_has_been_deleted">Файл було видалено.</string>
     <string name="failed_to_delete_file">Не вдалося видалити файл.</string>
     <string name="install__label_">Встановлення - <xliff:g example="APKPure" id="app_label">%1$s</xliff:g></string>
@@ -71,7 +71,7 @@
     <string name="permissions_">Дозволи:</string>
     <string name="type_">Тип:</string>
     <string name="category_">Категорія:</string>
-    <string name="more">більше</string>
+    <string name="more">Більше</string>
     <string name="permissions">Дозволи</string>
     <string name="other">Інше</string>
     <string name="similar_or_related">Схожі або пов\'язані</string>
@@ -104,7 +104,7 @@
         <item quantity="few"><xliff:g example="2" id="count">%1$d</xliff:g> елементи завантажуються</item>
         <item quantity="many"><xliff:g example="2" id="count">%1$d</xliff:g> елементів завантажуються</item>
     </plurals>
-    <string name="downloads_complete">Завантаження завершені</string>
+    <string name="downloads_complete">Усі завантаження завершені</string>
     <string name="touch_for_view_all_downloads">Торкніться, щоб побачити всі завантаження</string>
     <string name="_name__download_failed"><xliff:g example="APKPure" id="name">%1$s</xliff:g> не вдалося завантажити</string>
     <string name="touch_to_download_it_again">Торкніться, щоб завантажити знову</string>
@@ -130,8 +130,8 @@
     <string name="detail">Деталі</string>
     <string name="remove">Прибрати</string>
     <string name="remove_all">Прибрати всі</string>
-    <string name="want_to_remove_download_item">Ви точно хочете прибрати це завантаження?</string>
-    <string name="want_to_remove_all_download_items">Ви точно хочете прибрати всі завантаження?</string>
+    <string name="want_to_remove_download_item">Ви впевнені, що хочете прибрати це завантаження\?</string>
+    <string name="want_to_remove_all_download_items">Ви впевнені, що хочете прибрати всі завантаження\?</string>
     <string name="delete_downloaded_file">Видалити завантаженний файл</string>
     <string name="download_over_cellular">Завантажити через мобільну мережу</string>
     <string name="download_over_cellular_content">Ви збираєтесь завантажити файл через мобільну мережу. Продовжити?</string>
@@ -145,8 +145,8 @@
     <string name="join_us">Приєднуйтесь до нас</string>
     <string name="skip">Пропустити</string>
     <string name="participate_ultra_download_beta_test_title">Увімкніть режим ультра-завантаження і насолоджуйтесь більшою швидкістю завантаження</string>
-    <string name="participate_ultra_download_beta_test_content">Режим ультра-завантаження знаходится на стадії бета-тесту. Зв\'яжіться з нами, якщо виникнуть якісь проблеми. Ви можете легкго відключити цей режим у налаштуваннях.</string>
-    <string name="enable">Включити</string>
+    <string name="participate_ultra_download_beta_test_content">Режим ультра-завантаження знаходится на стадії бета-тестування. Зв\'яжіться з нами, якщо виникнуть якісь проблеми. Ви можете легко вимкнути цей режим в налаштуваннях.</string>
+    <string name="enable">Ввімкнути</string>
     <string name="_name__is_up_to_date"><xliff:g example="APKPure" id="name">%1$s</xliff:g> оновлено до останньої версії.</string>
     <string name="new_version_available_title">Доступна нова версія</string>
     <string name="new_version_available_message">&lt;b&gt;Остання версія:&lt;/b&gt; %1$s&lt;br&gt;&lt;br&gt;&lt;b&gt;Що нового:&lt;/b&gt;&lt;br&gt;%2$s</string>
@@ -669,4 +669,85 @@
 \n&lt;br&gt;&lt;b&gt;Шлях:&lt;/b&gt; %3$s
 \n&lt;br&gt;&lt;b&gt;Розмір:&lt;/b&gt; %4$s
 \n&lt;br&gt;&lt;b&gt;Останні зміни:&lt;/b&gt; %5$s</string>
+    <string name="comment_removed_title">Ваш допис видалено</string>
+    <string name="home_recommended_desc">Ваш допис обрали як рекомендація для головної сторінки,%1$s</string>
+    <string name="home_recommended_title">Вітаємо!</string>
+    <string name="recommended_posts_des">Ваш допис обрали як рекомендований допис,%1$s</string>
+    <string name="recommended_posts_title">Вітаємо!</string>
+    <string name="users_recommended_des">Ваш допис обрали як рекомендація від користувача,%1$s</string>
+    <string name="users_recommended_title">Вітаємо!</string>
+    <string name="download_install_apk">Встановити APK</string>
+    <string name="download_install_obb">Встановити OBB</string>
+    <string name="headline_footer_refresh">Потягніть вниз або натисніть на цей рядок, щоб оновити.</string>
+    <string name="number">\"</string>
+    <string name="app_rating">Оцінка:</string>
+    <string name="follow_xx">Стежити за &lt;xliff:g xmlns:xliff=\"urn:oasis:names:tc:xliff:document:1.2\" example=\"Apkpure\" id=\"name\"&gt;%1$s&lt;/xliff:g&gt;</string>
+    <string name="un_follow_xx">Припинити відстежувати &lt;xliff:g xmlns:xliff=\"urn:oasis:names:tc:xliff:document:1.2\" example=\"Apkpure\" id=\"name\"&gt;%1$s&lt;/xliff:g&gt;</string>
+    <string name="save_tag_hint_msg">Зміну не буде збережено. Ви впевнені, що хочете вийти\?</string>
+    <string name="edit_tag">Редагувати теґ</string>
+    <string name="long_image">Високе зображення</string>
+    <string name="apk_unable_upload">Не вдалося опубліковати застосунок.</string>
+    <string name="share_app_url_comment_v3">Поділитися &lt;xliff:g xmlns:xliff=\"urn:oasis:names:tc:xliff:document:1.2\" example=\"zhangsan\" id=\"name\"&gt;%1$s&lt;/xliff:g&gt; &lt;xliff:g xmlns:xliff=\"urn:oasis:names:tc:xliff:document:1.2\" example=\"post/story/review\" id=\"type\"&gt;%2$s&lt;/xliff:g&gt; (З APKPure):&lt;xliff:g xmlns:xliff=\"urn:oasis:names:tc:xliff:document:1.2\" example=\"https://apkpure.com\" id=\"url\"&gt;%3$s &lt;/xliff:g&gt;</string>
+    <string name="reply_to">Відповісти %1$s:</string>
+    <string name="del_account_sure">Ваш обліковий запис буде видалено через 48 годин. Будь ласка, зв\'яжіться з нами, якщо у вас досі є питання.</string>
+    <string name="del_account_reason_hint">Чому ви хочете видалити цей обліковий запис\?</string>
+    <string name="del_account_bt">Підтвердити</string>
+    <string name="del_account_email_reason_tv">Чому ви хочете видалити цей обліковий запис\?</string>
+    <string name="del_account_email_notify_tv">Будь ласка, надайте правильну адресу вашої електронної пошти, щоб отримати наше сповіщення.</string>
+    <string name="bing_share_account">З\'єднати з третім обліковим записом</string>
+    <string name="auto_service_directly__material_">БЕЗПОСЕРЕДНЄ ЗАВАНТАЖЕННЯ</string>
+    <string name="search_tab_invitation">Дописи</string>
+    <string name="privacy_setting_account_privacy">Це приватний обліковий запис.</string>
+    <string name="privacy_setting_account_del">Видалити свій обліковий запис та інформацію</string>
+    <string name="privacy_setting_account_des">Вашу головну сторінку не зможуть бачити інші, якщо ваш обліковий запис є приватним.</string>
+    <string name="privacy_setting_account">Приватний обліковий запис</string>
+    <string name="privacy_setting_title">Налаштування конфіденційності</string>
+    <string name="search_or_create">Шукати або створити</string>
+    <string name="share_select_image_overflow_hint">Ви можете поділитися не більше, ніж 9-ма зображеннями на допис.</string>
+    <string name="share_image_failed">Не вдалося поділитися зображенням!</string>
+    <string name="history_hastag">Історія хештеґів</string>
+    <string name="look_all">Дивитися більше</string>
+    <string name="no_save_comment_hint">Зміст не буде збережено. Ви впевнені, що хочете вийти\?</string>
+    <string name="hint">Увага</string>
+    <string name="headline_no_data_tv">Немає нового змісту</string>
+    <string name="look_links">Переглянути посилання</string>
+    <string name="hot">популярний</string>
+    <string name="delete_success">Видалено</string>
+    <string name="release_dynamics">Опублікувати допис</string>
+    <string name="me_follow">Мої відстежування</string>
+    <string name="menu_follow_subject_tab">Хештеґ</string>
+    <string name="menu_follow_subject">Відстежувані хештеґи</string>
+    <string name="hot_subject">Популярні хештеґи</string>
+    <string name="error_hot_data_empty">Немає популярних хештеґів!</string>
+    <string name="trends">Допис</string>
+    <string name="image_text">Зображення та текст</string>
+    <string name="evaluating">Відгуки</string>
+    <string name="new_subject_comment">Новий хештеґ</string>
+    <string name="subject_comment">Хештеґи</string>
+    <string name="comments">Коментарі</string>
+    <string name="user_recommend_tip">Рекомендація від користувача</string>
+    <string name="msg_all_read_msg">Ви впевнені, що хочете позначити всі повідомлення як прочитані\?</string>
+    <string name="msg_all_read_notice">Сповіщення</string>
+    <string name="msg_all_read">Позначити все як прочитане</string>
+    <string name="comment_hint_tv">Хочете чимось поділитися\?</string>
+    <string name="submit_add_title_image_error_toast">Формат цього зображення не підтримується. Будь ласка, виберіть інше.</string>
+    <string name="submit_add_title_image_tv">Додайте обкладинку</string>
+    <string name="setting_region">Регіон</string>
+    <string name="shop">КРАМНИЦЯ</string>
+    <string name="email_address_hint_et">Введіть свою електронну пошту.</string>
+    <string name="recover_password_title">Відновлення паролю</string>
+    <string name="forget_password_tv">Забули пароль\?</string>
+    <string name="menu_skip">Пропустити</string>
+    <string name="unbind_email_hint">"До вашого облікового запису не під\'єднано  жодної електронної пошти."</string>
+    <string name="unbind_email">Не під\'єднано</string>
+    <string name="verification_null_code_toast">Будь ласка, введіть код підтвердження, який ви отримали.</string>
+    <string name="verification_success_code_toast">Ваш код підтвердження надіслано.</string>
+    <string name="verification_code_tv_hint">Код підтвердження</string>
+    <string name="update_email_tv">Перепідтвердити свою адресу електронної пошти для оновлення.</string>
+    <string name="bind_email_success">Вашу електронну пошту успішно під\'єднано.</string>
+    <string name="send_verification_code_resend_tv">Надіслати код підтвердження</string>
+    <string name="verification_code_resend_tv">Ще раз надіслати код підтвердження</string>
+    <string name="verification_code_second_tv">Надіслати ще раз на «%d»</string>
+    <string name="verification_code_tv">Код підтвердження надіслано на вашу електронну пошту «%1$s»</string>
+    <string name="bind_email_tv">З\'єднайте адресу вашої електронної пошти зі своїм обліковим записом, щоб розблокувати такі можливості як логін електронної пошти, відновлення паролю, надсилання дописів тощо.</string>
 </resources>

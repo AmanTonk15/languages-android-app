@@ -55,7 +55,7 @@
     <string name="user_canceled">Përdoruesi u anulua.</string>
     <string name="io_error">Gabim IO. Nuk ka hapësirë të mjaftueshme për instalim.</string>
     <string name="file_format_error">Gabim në formatin e skedarit.</string>
-    <string name="parsing_xapk"/>
+    <string name="parsing_xapk">Parsing XAPK …</string>
     <string name="installing_obb"/>
     <string name="extracting_apk"/>
     <string name="installing_apk"/>
